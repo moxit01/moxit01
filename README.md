@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moxit</h1>
 
-- 🔭 I’m currently working on [digit-recognizer-using-SVM](https://github.com/moxit01/digit-recognizer-using-SVM)
+- 🔭 I’m currently a Post-Graduate Student at Cambrian College.
 
 - 📝 I write articles on [medium](https://medium.com/@shah.moxit999)
 
